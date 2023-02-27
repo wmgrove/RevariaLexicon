@@ -1,0 +1,3 @@
+public enum FieldType {
+    NORELATION,ONEWAYRELATION,TWOWAYRELATION;
+}
